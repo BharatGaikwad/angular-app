@@ -1,6 +1,6 @@
-# ShoppinagApp
+## Install Dependancies
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.6.
+Rune 'npm install' for a install packages.
 
 ## Development server
 
